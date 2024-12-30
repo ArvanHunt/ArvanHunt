@@ -8,5 +8,5 @@
 
 - 📫 How to reach me               :     arvankumar95@gmail.com / www.linkedin.com/in/arvankumar/
    
-- ⚡ Fun fact                       :     🦸I 😃enjoy 🐕‍🦺finding 📊patterns in 🤷‍♂️everything — even my 🍞grocery 💯receipts. 
+- ⚡ Fun fact                       :     I 😃enjoy 🐕‍🦺finding 📊patterns in 🤷‍♂️everything — even 🦸my 🍞grocery 💯receipts. 
 
