@@ -1,12 +1,11 @@
 ## Hi there 👋 I am ARVAN / Self-Taught Developer
 
-- 🌱 I’m currently Focusing on     :     Mastering advanced React concepts
+- 🌱 I’m currently Focusing on     :     Mastering advanced Kuberenetes concepts
   
-- 🔭 Skills                        :     JavaScript , ReactJs , Tailwind CSS , Redux                                    
- 
-- 🤔 I’m looking for help with     :     Building highly optimized and accessible web applications
+- 🔭 Skills                        :     Docker,Kuberenetes, AWS, Jenkins, Terraform, Ansible, Linux, Bash                                    
+- 🤔 I’m looking for help with     :     Optimizing cloud infrastructure and production-grade deployments
 
-- 📫 How to reach me               :     arvankumar95@gmail.com / www.linkedin.com/in/arvankumar/
+- 📫 How to reach me               :     arvan.work@gmail.com / +91 8123492980
    
-- ⚡ Fun fact                       :     I 😃enjoy 🐕‍🦺finding 📊patterns in 🤷‍♂️everything — even 🦸my 🍞grocery 💯receipts. 
+- ⚡ Fun fact                       :     I enjoy analyzing system performance and finding optimization opportunities in everything 
 
