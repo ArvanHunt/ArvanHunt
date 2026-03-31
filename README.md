@@ -1,15 +1,18 @@
 ## Hi there 👋 I am ARVAN | DevOps Engineer 🚀
 
-🌱 Currently mastering  : Kubernetes (EKS, Kubeadm), Terraform, and Cloud-Native Architecture
+🌱 Currently mastering: Kubernetes (EKS, Kubeadm), Terraform & Cloud-Native magic
 
-🔧 Tech Stack           : AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Prometheus | Grafana
+🔧 Tech Stack: AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Prometheus | Grafana
 
-🚀 Experience           : 5+ years designing scalable CI/CD pipelines and cloud infrastructure
+(aka my daily headache & happiness combo 😄)
 
-📈 Achievements         : Reduced deployment time by 40% | Improved uptime to 99.9%
+🚀 Experience: 5+ years building CI/CD pipelines that deploy faster than bugs can react
 
-🤝 Open to              : DevOps opportunities, collaboration on cloud-native projects
+📈 Achievements:⬆️ 40% faster deployments | ⏱️ 99.9% uptime | ⛔ less manual work = more coffee time ☕
 
-📫 Reach me             : arvan.work@gmail.com
+🤝 Open to: DevOps roles, cloud projects & anything that needs automation (basically everything 😎)
 
-⚡ Fun fact              : I optimize everything — from CI/CD pipelines to real-life workflows 😄
+📫 Reach me: arvan.work@gmail.com
+
+⚡ Fun fact:I don’t like repetitive work… so I automated it.
+Then automated the automation. 🚀
